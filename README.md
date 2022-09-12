@@ -1,1 +1,0 @@
-# student-supervision-mangement-system
